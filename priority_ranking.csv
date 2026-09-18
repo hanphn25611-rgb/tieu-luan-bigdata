@@ -1,0 +1,11 @@
+﻿aspect,aspect_vi,priority,priority_score,n_total,n_neg,neg_rate,avg_rating,coverage,intensity,confidence
+plot_and_storyline,Cốt truyện,P0,0.047019,27272,6443,0.2362,4.19,0.2715,0.7329,1.0
+ending,Kết thúc,P0,0.02474,9556,3326,0.3481,4.1,0.0951,0.747,1.0
+character_development,Phát triển nhân vật,P0,0.023896,15516,3242,0.2089,4.25,0.1545,0.7403,1.0
+content_accuracy,Độ chính xác nội dung,P1,0.014869,9397,2065,0.2198,4.27,0.0936,0.7232,1.0
+writing_style,Văn phong,P1,0.014542,12151,2004,0.1649,4.31,0.121,0.7288,1.0
+kindle_and_ebook,Phiên bản Kindle/Ebook,P1,0.009769,15117,1372,0.0908,4.42,0.1505,0.7151,1.0
+pacing,Nhịp độ truyện,P2,0.004268,3699,607,0.1641,4.36,0.0368,0.7061,1.0
+value_for_price,Giá trị so với giá tiền,P2,0.002439,3412,343,0.1005,4.44,0.034,0.7142,1.0
+translation_and_edition,Bản dịch & ấn bản,P2,0.002435,1843,339,0.1839,4.28,0.0184,0.7213,1.0
+delivery_and_condition,Giao hàng & tình trạng sách,P2,0.002307,2469,332,0.1345,4.31,0.0246,0.6978,1.0

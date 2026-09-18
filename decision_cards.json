@@ -1,0 +1,74 @@
+[
+  {
+    "aspect": "plot_and_storyline",
+    "aspect_vi": "Cốt truyện",
+    "priority": "P0",
+    "priority_score": 0.047019,
+    "n_negative": 6443,
+    "neg_rate": "23.6%",
+    "avg_rating": 4.19,
+    "dept": "Ban Biên tập",
+    "action": "Rà soát cấu trúc cốt truyện, tham khảo phản hồi beta readers trước khi xuất bản",
+    "ai_summary": "Not what I expected"
+  },
+  {
+    "aspect": "ending",
+    "aspect_vi": "Kết thúc",
+    "priority": "P0",
+    "priority_score": 0.02474,
+    "n_negative": 3326,
+    "neg_rate": "34.8%",
+    "avg_rating": 4.1,
+    "dept": "Ban Biên tập",
+    "action": "Đảm bảo phần kết giải quyết đủ các tuyến truyện chính, tránh kết thúc hở không cần thiết",
+    "ai_summary": "Disappointing, terrible purchase."
+  },
+  {
+    "aspect": "character_development",
+    "aspect_vi": "Phát triển nhân vật",
+    "priority": "P0",
+    "priority_score": 0.023896,
+    "n_negative": 3242,
+    "neg_rate": "20.9%",
+    "avg_rating": 4.25,
+    "dept": "Ban Biên tập",
+    "action": "Yêu cầu tác giả phát triển chiều sâu nhân vật, thêm arc cảm xúc rõ ràng",
+    "ai_summary": "The story is not very good and the characters are not very well developed."
+  },
+  {
+    "aspect": "content_accuracy",
+    "aspect_vi": "Độ chính xác nội dung",
+    "priority": "P1",
+    "priority_score": 0.014869,
+    "n_negative": 2065,
+    "neg_rate": "22.0%",
+    "avg_rating": 4.27,
+    "dept": "Ban Kiểm định Nội dung",
+    "action": "Fact-check thông tin trước xuất bản, cập nhật các ấn bản lỗi thời",
+    "ai_summary": "The entire book just seems off."
+  },
+  {
+    "aspect": "writing_style",
+    "aspect_vi": "Văn phong",
+    "priority": "P1",
+    "priority_score": 0.014542,
+    "n_negative": 2004,
+    "neg_rate": "16.5%",
+    "avg_rating": 4.31,
+    "dept": "Ban Biên tập",
+    "action": "Tăng cường biên tập văn phong, đảm bảo văn xuôi mạch lạc và phù hợp đối tượng đọc giả",
+    "ai_summary": "The entire book just seems off."
+  },
+  {
+    "aspect": "kindle_and_ebook",
+    "aspect_vi": "Phiên bản Kindle/Ebook",
+    "priority": "P1",
+    "priority_score": 0.009769,
+    "n_negative": 1372,
+    "neg_rate": "9.1%",
+    "avg_rating": 4.42,
+    "dept": "Bộ phận Kỹ thuật số",
+    "action": "Kiểm tra định dạng ebook trên các thiết bị Kindle, sửa lỗi font và layout",
+    "ai_summary": "The book is lovely, but the publisher’s insistence of printing on both sides of the pages makes them look muddy."
+  }
+]
